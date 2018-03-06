@@ -1,11 +1,10 @@
-function drawTree(5) {
+function drawTree() {
   
   for (var i = 0 ; i < 5 ; i++) {
-    star = ''; 
+  var star = ''; 
     for (var j= 0 ; j <= i ; j++) {
        
-    
-     }
+    }
   }
 
 }
