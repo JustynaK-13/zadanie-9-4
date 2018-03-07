@@ -7,3 +7,4 @@ function drawTree (i  = 5) {
     console.log(star);
   }  
 }
+drawTree();
